@@ -1,0 +1,6 @@
+id=a22nnxx-ril-rollback
+name=SMS Fix Magisk Module for Samsung Galaxy A22 5G
+version=v1.0
+versionCode=1
+author=gauravv.x1
+description=Fix SMS on Galaxy A22  by rolling back the RIL libraries.
