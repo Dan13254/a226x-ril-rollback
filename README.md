@@ -5,4 +5,4 @@ A Magisk module that fixes incoming SMS on Galaxy A22 5G by rolling back the RIL
 **⚠️ Do not install this module if you don't have problems receiving texts, or if you are on firmware ` A226BXXU5CVK9` or earlier. See the note below if you don't have the global model.**
 
 ## Installation
-Download the [latest version](https://github.com/gauravv-x1/a22nnxx-ril-rollback/releases/latest) and flash it on the Magisk app.
+Download the [latest version](https://github.com/Dan13254/a226x-ril-rollback/releases/latest) and flash it on the Magisk app.
